@@ -1,5 +1,5 @@
 title: My name is GJ
-description: (V002-20201217).
+description: (V003-20201217).
       This site is managed by VauLSMorg (vlsm.org) since 2020.
       <br>May the fork() be with you, Jolan Tru!
 google_analytics: UA-89852122-6
@@ -19,7 +19,7 @@ plugins:
 social:
   name: URLs
   links:
-    - https://https://github.com/grafikaj/os202/
+    - https://https://github.com/grafikaj/os201/
 # github:
 #    zip_url: https://github.com/...
 #    tar_url: https://github.com/...
